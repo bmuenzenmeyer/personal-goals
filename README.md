@@ -12,7 +12,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Become more T-shaped, learning a broader array of skills and getting deeper where it matters most.
 
 ### January Goals
-- [ ] atom package: auto-complete-plus-patternlab
+- [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
 - [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
 
 ### February Goals
