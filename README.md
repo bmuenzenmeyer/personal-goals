@@ -8,12 +8,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## 2016 Themes
 
 * Write more long form work and tutorials.
+* Read more, and track each book.
 * Sleep more. Never go to bed past 1 AM
 * Become more T-shaped, learning a broader array of skills and getting deeper where it matters most.
 
 ### January Goals
 - [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
 - [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
+- [ ] Finish [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
 
 ### February Goals
 - [ ] Create a go bag for baby 2
