@@ -4,3 +4,4 @@
 
 # Books to Read
 
+- [ ] Read [The Shape of Design](https://buyolympia.com/q/Item=frank-chimero-the-shape-of-design-paperback)
