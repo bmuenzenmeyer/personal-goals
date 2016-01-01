@@ -15,7 +15,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### January Goals
 - [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
 - [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
-- [ ] Finish [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
+- [x] Read [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
+- [ ] Read [The Shape of Design](https://buyolympia.com/q/Item=frank-chimero-the-shape-of-design-paperback)
 
 ### February Goals
 - [ ] Create a go bag for baby 2
