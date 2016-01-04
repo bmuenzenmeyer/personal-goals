@@ -1,4 +1,4 @@
 # Videos to Watch
 
-### Testing
-- [ ] [Video Title](http://google.com) (40 mins)
+### JavaScript
+- [ ] [JavaScript Promises and Service Workers](https://www.udacity.com/course/javascript-promises--ud898)
