@@ -22,7 +22,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Rollover previous employer retirement into ROTH IRA
 
 ### February Goals
-- [ ] Create a go bag for baby 2
+- [ ] Create go bags for baby 2
+- [ ] play more piano
+- [ ] start clearing out instapaper 
 
 ### March Goals
 
