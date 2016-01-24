@@ -21,6 +21,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish painting baby room
 - [x] Rollover previous employer retirement into ROTH IRA
 
+#### January Codepen
+* [Type and Contrast Exercise](http://codepen.io/bmuenzenmeyer/pen/qbpPaR)
+
 ### February Goals
 - [ ] Create go bags for baby 2
 - [ ] play more piano
