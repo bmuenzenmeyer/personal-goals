@@ -1,4 +1,3 @@
 # Videos to Watch
 
-### JavaScript
-- [ ] [JavaScript Promises and Service Workers](https://www.udacity.com/course/javascript-promises--ud898)
+- [ ] [Designing for Crisis](https://vimeo.com/148927676)
