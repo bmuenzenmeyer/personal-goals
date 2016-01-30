@@ -10,5 +10,4 @@
 
 # Books to Read
 - [ ] [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
-
-
+- [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
