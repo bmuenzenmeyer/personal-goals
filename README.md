@@ -14,7 +14,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Codepen more! Learn more, share more, experiment more.
 * Make Pattern Lab Node live up to the cool that is PL PHP 
 
-#### February Codepens
 
 ### February Goals
 - [ ] Create go bags for baby 2 (max and megan)
@@ -23,6 +22,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
 - [ ] Read four things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
 - [ ] Ship PL Node 1.1.0
+- 
+#### February Codepens
+
+
+----
 
 ### Backlog
 - [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
