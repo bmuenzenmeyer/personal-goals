@@ -17,7 +17,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
 - [x] Read [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
 - [x] Read [The Shape of Design](https://buyolympia.com/q/Item=frank-chimero-the-shape-of-design-paperback)
-- [ ] Finish closet for baby room
+- [x] Finish closet for baby room
 - [x] Finish painting baby room
 - [x] Rollover previous employer retirement into ROTH IRA
 
