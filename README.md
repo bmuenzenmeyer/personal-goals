@@ -11,32 +11,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Read more, and track each book.
 * Sleep more. Never go to bed past 1 AM
 * Become more T-shaped, learning a broader array of skills and getting deeper where it matters most.
+* Codepen more! Learn more, share more, experiment more.
+* Make Pattern Lab Node live up to the cool that is PL PHP 
 
-### January Goals
-- [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
-- [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
-- [x] Read [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
-- [x] Read [The Shape of Design](https://buyolympia.com/q/Item=frank-chimero-the-shape-of-design-paperback)
-- [x] Finish closet for baby room
-- [x] Finish painting baby room
-- [x] Rollover previous employer retirement into ROTH IRA
-
-#### January Codepens
-* [Type and Contrast Exercise](http://codepen.io/bmuenzenmeyer/pen/qbpPaR)
-* [SVG Spinner](http://codepen.io/bmuenzenmeyer/pen/EVwXym/)
+#### February Codepens
 
 ### February Goals
-- [ ] Create go bags for baby 2
-- [ ] play more piano
-- [ ] start clearing out instapaper 
-
-### March Goals
-
-
+- [ ] Create go bags for baby 2 (max and megan)
+- [ ] start the beginner piano book again
+- [ ] start clearing out instapaper (take care of 10 things a day)
+- [ ] Read [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
+- [ ] Read four things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
+- [ ] Ship PL Node 1.1.0
 
 ### Backlog
-- [ ] Make Pattern Lab Node live up to the cool that is PL PHP v2
-- [ ] Codepen more! Learn some new techniques
+- [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
+- [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
 - [ ] Get a better functional understanding of React
 - [ ] Get a better functional understanding of Angular
 - [ ] Use Macaw more, or uninstall it
