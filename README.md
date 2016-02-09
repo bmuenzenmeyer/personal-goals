@@ -21,7 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] start clearing out instapaper (take care of 10 things a day)
 - [ ] Read [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
 - [ ] Read four things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
-- [ ] Ship PL Node 1.1.0
+- [x] Ship PL Node 1.1.0
 
 
 #### February Codepens
