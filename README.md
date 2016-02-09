@@ -40,11 +40,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Remove iconfonts from sites in favor of SVG
 - [ ] Deeper learning around Adobe products 
 - [ ] Investigate the concept of a web design and development maturity model for learning
-- [x] Design is Parenting. [Write this](https://trello.com/c/yctFcfo7/605-design-is-parenting) or kill it. - Killed. Parenting is more important than design. Design accomplishes the goals of another. Parenting is a higher goal - creating a good human being.
 - [ ] Create a go bag for the family
 - [ ] Update crunchy owl with case studies instead of screen shots
 - [ ] Implement responsive images across projects
-- [ ] [Compass Rose v2](https://github.com/bmuenzenmeyer/CompassRose)
+- [ ] Host older versions of brianmuenzenmeyer.com on github for fun
 - [ ] Tame instapaper, find a better bookmark and to-do list workflow
 - [ ] Tame my bookmarks and downloads
 - [ ] Use [Butler](http://fabiandesmet.com/portfolio/butler-font/) in a project cause it's awesome
