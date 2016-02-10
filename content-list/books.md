@@ -11,3 +11,4 @@
 # Books to Read
 - [ ] [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
