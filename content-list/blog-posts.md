@@ -6,3 +6,4 @@
 - [ ] [Making a Service Worker](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 - [x] [Maintaining Pattern Lab in Production](https://github.com/pattern-lab/patternlab-php/issues/312#issuecomment-174244716)
 - [ ] [Podcasst: RWD with Karen McGrane](http://msdevshow.com/2015/12/responsive-design-with-karen-mcgrane/)
+- [ ] [Everything about AMP](https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/)
