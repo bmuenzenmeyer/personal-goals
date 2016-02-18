@@ -16,7 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 
 ### February Goals
-- [ ] Create go bags for baby 2 (max and megan)
+- [x] Create go bags for baby 2 (max and megan)
 - [ ] start the beginner piano book again
 - [ ] start clearing out instapaper (take care of 10 things a day)
 - [ ] Read [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
