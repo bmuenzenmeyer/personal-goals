@@ -8,7 +8,9 @@
 - [ ] [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025) - Andy Weir
   - What a fun read. The internal dialog of Mark Watney is enough to keep this a page-turner from start to finish.
 
+## February
+- [ ] [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles) - Ethan Marcotte
+
 # Books to Read
-- [ ] [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
