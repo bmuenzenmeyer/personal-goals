@@ -7,3 +7,4 @@
 - [ ] [Podcast: RWD with Karen McGrane](http://msdevshow.com/2015/12/responsive-design-with-karen-mcgrane/)
 - [ ] [Everything about AMP](https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/)
 - [ ] [Efficient Responsive Design Process](https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process/)
+- [ ] [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
