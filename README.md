@@ -47,7 +47,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Deeper learning around Adobe products 
 - [ ] Investigate the concept of a web design and development maturity model for learning
 - [ ] Create a go bag for the family
-- [ ] Update crunchy owl with case studies instead of screen shots
+- [ ] Move Crunchy Owl to github
+  - [ ] Update crunchy owl with case studies instead of screen shots
 - [ ] Implement responsive images across projects
 - [ ] Host older versions of brianmuenzenmeyer.com on github for fun
 - [ ] Tame instapaper, find a better bookmark and to-do list workflow
