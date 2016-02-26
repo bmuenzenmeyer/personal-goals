@@ -9,3 +9,4 @@
 - [ ] [Efficient Responsive Design Process](https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process/)
 - [ ] [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
 - [ ] [Preload What is it Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+- [ ] [Atomic Classification](http://trentwalton.com/2016/02/26/atomic-classification/)
