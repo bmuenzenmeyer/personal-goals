@@ -25,6 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
   - [x] [Atomic Design Newsletter #4](http://us5.campaign-archive2.com/?u=6c0c3f4dcd40d88bc1cedb3fa&id=4a2b57dbe1&e=e405bb8213)
   - [x] [Getting Ready for HTTP2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
   - [x] [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
+  - [x] [Atomic Classification](http://trentwalton.com/2016/02/26/atomic-classification/)
 - [x] Ship PL Node 1.1.0
 
 
