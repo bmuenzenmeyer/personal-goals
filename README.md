@@ -27,6 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
   - [x] [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
   - [x] [Atomic Classification](http://trentwalton.com/2016/02/26/atomic-classification/)
 - [x] Ship PL Node 1.1.0
+- [x] Look into atom [es-linting](https://atom.io/packages/linter-eslint) Pattern Lab
 
 
 #### February Codepens
@@ -39,7 +40,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog
 - [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
-- [ ] Look into atom [es-linting](https://atom.io/packages/linter-eslint)
 - [ ] Get a better functional understanding of React
 - [ ] Get a better functional understanding of Angular
 - [ ] Use Macaw more, or uninstall it
