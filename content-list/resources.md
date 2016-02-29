@@ -1,7 +1,5 @@
 # Resources I Can Always Refer Back To
 
-### CSS
-- [ ] [CSS Guidelines](http://cssguidelin.es/)
+### eBooks
 
-### Tools
-- [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
+- [Free UX UI eBook Roundup](https://userbrain.net/blog/free-ebooks-on-usability-user-experience-ui-and-more)
