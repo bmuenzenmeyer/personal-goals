@@ -9,3 +9,4 @@
 - [ ] [Efficient Responsive Design Process](https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process/)
 - [ ] [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
 - [ ] [Preload What is it Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+- [ ] [Pattern Lab Taking Our Workflow From a Linear to a Parallel Process](https://www.phase2technology.com/blog/pattern-lab-taking-our-workflow-from-a-linear-to-parallel-process/)
