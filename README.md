@@ -15,26 +15,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Make Pattern Lab Node live up to the cool that is PL PHP 
 
 
-### February Goals
-- [x] Create go bags for baby 2 (max and megan)
-- [ ] start the beginner piano book again
-- [ ] start clearing out instapaper (take care of 10 things a day)
-- [x] Read [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles)
-- [x] Read four things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
-  - [x] [Maintaining Pattern Lab in Production](https://github.com/pattern-lab/patternlab-php/issues/312#issuecomment-174244716) 
-  - [x] [Atomic Design Newsletter #4](http://us5.campaign-archive2.com/?u=6c0c3f4dcd40d88bc1cedb3fa&id=4a2b57dbe1&e=e405bb8213)
-  - [x] [Getting Ready for HTTP2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
-  - [x] [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
-  - [x] [Atomic Classification](http://trentwalton.com/2016/02/26/atomic-classification/)
-- [x] Ship PL Node 1.1.0
-- [x] Look into atom [es-linting](https://atom.io/packages/linter-eslint) Pattern Lab
+### March Goals
+- [ ] Clear out 60 items from instapaper (0 of 60 complete)
+- [x] Read [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)
+- [x] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md))
+- [x] Watch one slide deck or listen to one podcast from the content list
+- [x] Ship PL Node 1.2.0
+- [x] Tackel [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
+- [ ] Use Macaw more, or uninstall it
 
+#### March Codepens
 
-#### February Codepens
-
-* [jQuery tabCycle Plugin Examples](http://codepen.io/bmuenzenmeyer/pen/dGrvGr)
-* [Repeated Background - Grey Mountains](http://codepen.io/bmuenzenmeyer/pen/pgYOoR/)
-* [Ragged Spine Flexbox Post Layout](http://codepen.io/bmuenzenmeyer/pen/EPJyzw/)
 
 ----
 
@@ -42,7 +33,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] atom package: autocomplete-patternlab as a means to learn more about their package/extensibility/modularization models
 - [ ] Get a better functional understanding of React
 - [ ] Get a better functional understanding of Angular
-- [ ] Use Macaw more, or uninstall it
 - [ ] Do something with service workers, offline API
 - [ ] Remove iconfonts from sites in favor of SVG
 - [ ] Deeper learning around Adobe products 
