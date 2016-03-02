@@ -16,9 +16,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 
 ### March Goals
-- [ ] Clear out 60 items from instapaper (0 of 60 complete)
-- [ ] Read [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)
-- [ ] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md))
+- [ ] Clear out 60 items from instapaper (5 of 60 complete)
+- [x] Read [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)
+- [ ] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
 - [ ] Watch one slide deck or listen to one podcast from the content list
 - [ ] Ship PL Node 1.2.0
 - [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
