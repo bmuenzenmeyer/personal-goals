@@ -22,6 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Watch one slide deck or listen to one podcast from the content list
 - [ ] Ship PL Node 1.2.0
 - [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
+ - [x] [Improve typography on site with a conditionally loaded italic](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/46) 
 - [x] Use Macaw more, or uninstall it. Uninstalled.
 
 #### March Codepens
