@@ -28,7 +28,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Use Macaw more, or uninstall it. Uninstalled.
 
 #### March Codepens
-
+- [x] [SVG Loading Spinner](http://codepen.io/bmuenzenmeyer/pen/EVwXym) - mostly just updated it with a new way to center that I learned from http://codepen.io/seanseansean/pen/NNqQXg
 
 ----
 
