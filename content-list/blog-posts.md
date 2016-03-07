@@ -11,3 +11,4 @@
 - [ ] [Pattern Lab Taking Our Workflow From a Linear to a Parallel Process](https://www.phase2technology.com/blog/pattern-lab-taking-our-workflow-from-a-linear-to-parallel-process/)
 - [ ] [Anatomy of Responsive Images](https://jakearchibald.com/2015/anatomy-of-responsive-images)
 - [ ] [Gzip Primer](https://viget.com/extend/gzip-primer)
+- [ ] [Design Research Kit](https://medium.com/designing-medium/design-research-kit-fed36125a713#.hl0z0q3qh)
