@@ -21,6 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
  - [x] [Brad Frost AMA](https://www.designernews.co/stories/64949-ama-brad-frost-web-designer)  
  - [x] [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
+ - [x] [Preload What is it Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 - [ ] Watch one slide deck or listen to one podcast from the content list
 - [x] Ship PL Node 1.2.0
 - [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
