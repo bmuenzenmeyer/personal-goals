@@ -27,6 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
  - [x] [Improve typography on site with a conditionally loaded italic](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/46) 
  - [x] [Fix base font declaration](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/50)
+ - [x] [Fix spacing on Crunchy Owl Hero](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/52)
 - [x] Use Macaw more, or uninstall it. Uninstalled.
 
 #### March Codepens
