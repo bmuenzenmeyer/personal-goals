@@ -12,7 +12,7 @@
 - [x] [Responsive Design: Patterns and Principles](http://abookapart.com/products/responsive-design-patterns-principles) - Ethan Marcotte
 
 ## March
-- [x] [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)  Timothy Zahn
+- [x] [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X) - Timothy Zahn
  - Having grown up on _Star Wars_ books - I felt a strange nostalgia to staying up at night and reading this Thrawn backstory. Megan encouraged me to pick it up at the library with gentle geek-poking, and I'm glad I did. Both for enjoyment and for further showing Max that reading is a fun, rewarding endeavor. Heck, already he stays up with his flashlight and reads to himself or his stuffed animals. _Outbound Flight_, to me, is the intersection of so many _Star Wars_ storylines - it has pre-Clone War Jedi action & politics complete with Mace Windu, Obi Wan and Anakin wrestling with Palpatine - it has Thrawn as tactical as he ever was in _TIE Fighter_ or the triology of his name, and it has whispers of the Yuuzhan Vong that plague the galaxy far after the events of the _Return of the Jedi_. A quick pace - some okay character development, and enough twists to keep the pages turning. Good read for anyone else wanting to connect cannon and legends.
 
 # Books to Read
