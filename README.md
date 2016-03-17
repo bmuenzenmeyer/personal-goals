@@ -16,7 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 
 ### March Goals
-- [ ] Clear out 60 items from instapaper (25 of 60 complete)
+- [ ] Clear out 60 items from instapaper (30 of 60 complete)
 - [x] Read [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)
 - [ ] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
  - [x] [Brad Frost AMA](https://www.designernews.co/stories/64949-ama-brad-frost-web-designer)  
