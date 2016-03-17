@@ -24,6 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
  - [x] [Preload What is it Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 - [x] Watch one slide deck or listen to one podcast from the content list
  - [x] [RWD with Karen McGrane on MSDevShow](http://msdevshow.com/2015/12/responsive-design-with-karen-mcgrane/)
+ - [x] [Big Web Show: CSS Grid Layout With Rachel Andrew](http://5by5.tv/bigwebshow/141)
 - [x] Ship PL Node 1.2.0
 - [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
  - [x] [Improve typography on site with a conditionally loaded italic](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/46) 
