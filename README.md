@@ -36,6 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 #### March Codepens
 - [x] [SVG Loading Spinner](http://codepen.io/bmuenzenmeyer/pen/EVwXym) - mostly just updated it with a new way to center that I learned from http://codepen.io/seanseansean/pen/NNqQXg
 - [x] [SVG Clip Path Concepts](http://codepen.io/bmuenzenmeyer/pen/QNGozm)
+- [x] [Card Detail Transitions](http://codepen.io/bmuenzenmeyer/pen/grmEgN/)
 
 ----
 
