@@ -22,3 +22,4 @@
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 - [ ] [Designing for Performance](http://designingforperformance.com/)
+- [ ] [Backbone Fundamentals](https://addyosmani.com/backbone-fundamentals/)
