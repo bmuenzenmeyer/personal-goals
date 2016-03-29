@@ -9,3 +9,4 @@
 - [ ] [Anatomy of Responsive Images](https://jakearchibald.com/2015/anatomy-of-responsive-images)
 - [ ] [Gzip Primer](https://viget.com/extend/gzip-primer)
 - [ ] [Design Research Kit](https://medium.com/designing-medium/design-research-kit-fed36125a713#.hl0z0q3qh)
+- [ ] [Front-End Style-Guides: Definition, Requirements, Component Checklist](https://www.nngroup.com/articles/front-end-style-guides/)
