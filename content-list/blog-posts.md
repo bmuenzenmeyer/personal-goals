@@ -10,3 +10,4 @@
 - [ ] [Gzip Primer](https://viget.com/extend/gzip-primer)
 - [ ] [Design Research Kit](https://medium.com/designing-medium/design-research-kit-fed36125a713#.hl0z0q3qh)
 - [ ] [Front-End Style-Guides: Definition, Requirements, Component Checklist](https://www.nngroup.com/articles/front-end-style-guides/)
+- [ ] [Rebuilding an aircraft on the fly — A Pattern Library integration at trivago](https://medium.com/@pistenprinz/rebuilding-an-aircraft-on-the-fly-a-pattern-library-integration-at-trivago-b2fd6954a88e#.5tnwu2s49)
