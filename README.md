@@ -15,31 +15,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Make Pattern Lab Node live up to the cool that is PL PHP 
 
 
-### March Goals
-- [ ] Clear out 60 items from instapaper (30 of 60 complete)
-- [x] Read [Outbound Flight](http://www.amazon.com/Outbound-Flight-Star-Wars-Legends/dp/034545684X)
-- [x] Read [Millennium Falcon](http://www.amazon.com/Millennium-Falcon-Star-James-Luceno/dp/0345510054)
-- [ ] Read five things from the [blog list](https://github.com/bmuenzenmeyer/personal-goals/blob/master/content-list/blog-posts.md)
- - [x] [Brad Frost AMA](https://www.designernews.co/stories/64949-ama-brad-frost-web-designer)  
- - [x] [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
- - [x] [Preload What is it Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
-- [x] Watch one slide deck or listen to one podcast from the content list
- - [x] [RWD with Karen McGrane on MSDevShow](http://msdevshow.com/2015/12/responsive-design-with-karen-mcgrane/)
- - [x] [Big Web Show: CSS Grid Layout With Rachel Andrew](http://5by5.tv/bigwebshow/141)
-- [x] Ship PL Node 1.2.0
-- [ ] Tackle [5 issues on my site, including at least one non-Pattern Lab Release blog post](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues)
- - [x] [Improve typography on site with a conditionally loaded italic](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/46) 
- - [x] [Fix base font declaration](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/50)
- - [x] [Fix spacing on Crunchy Owl Hero](https://github.com/bmuenzenmeyer/bmuenzenmeyer.github.io/issues/52)
-- [x] Use Macaw more, or uninstall it. Uninstalled.
+### April Goals
+- [ ] Be there for Megan. Everything else is bonus.
 
-#### March Codepens
-- [x] [SVG Loading Spinner](http://codepen.io/bmuenzenmeyer/pen/EVwXym) - mostly just updated it with a new way to center that I learned from http://codepen.io/seanseansean/pen/NNqQXg
-- [x] [SVG Clip Path Concepts](http://codepen.io/bmuenzenmeyer/pen/QNGozm)
-- [x] [Card Detail Transitions](http://codepen.io/bmuenzenmeyer/pen/grmEgN/)
+#### April Codepens
+
 
 #### Cool
-- [x] [Good Best of 7 Star Craft II Series](http://sc2casts.com/cast19276-JINAIR-vs-KT-Rolster-Best-of-7-2016-Proleague-Round-1-Playoff-2)
+
 
 ----
 
