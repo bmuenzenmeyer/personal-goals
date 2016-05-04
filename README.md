@@ -15,10 +15,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 * Make Pattern Lab Node live up to the cool that is PL PHP 
 
 
-### April Goals
-- [ ] Be there for Megan. Everything else is bonus.
+### May Goals
+- [ ] Make serious headway on PL Node 2.0 alpha
 
-#### April Codepens
+#### May Codepens
 
 
 #### Cool
