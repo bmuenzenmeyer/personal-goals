@@ -18,6 +18,12 @@
  - Wow these books are a bit of a guilty pleasure, a confluence of all my geeky encyclopedic recall of _Star Wars_ facts and Legends timeline accrued from my teen years. This book has some interesting story framing and is full of nostalgia just like _Outbound Flight_. My son picked this one due to the cover - and I am happy to report it didn't disappoint. 
 - [x] [The Girl With All the Gifts](http://www.amazon.com/The-Girl-With-All-Gifts/dp/0316278157) -  M. R. Carey
 
+## June
+- [x] [Designing for Real Life](https://abookapart.com/products/design-for-real-life) - Eric Meyer & Sara Wachter-Boettcher
+
+## July
+- [x] [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448) - Ernest Cline
+
 # Books to Read
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
