@@ -24,6 +24,9 @@
 ## July
 - [x] [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448) - Ernest Cline
 
+## August
+- [x] [Practical SVG](https://abookapart.com/products/practical-svg) - Chris Coyier
+
 # Books to Read
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
