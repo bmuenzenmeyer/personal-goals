@@ -27,6 +27,9 @@
 ## August
 - [x] [Practical SVG](https://abookapart.com/products/practical-svg) - Chris Coyier
 
+## December
+- [X] [Armada](https://www.amazon.com/Armada-novel-author-Ready-Player/dp/0804137277) - Ernest Cline
+
 # Books to Read
 - [ ] [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
